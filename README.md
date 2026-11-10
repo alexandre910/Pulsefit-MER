@@ -1,2 +1,2 @@
 # Pulsefit-MER
-MER do projeto Pulsefit
+MER e DER do projeto Pulsefit
